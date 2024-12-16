@@ -1,0 +1,343 @@
+[{
+  "_id": {
+    "$oid": "675c46dd700a9d83bfbc1f11"
+  },
+  "Id": 1,
+  "name": "Arjun Sharma",
+  "salary": 55000,
+  "skills": [
+    "Java",
+    "SQL"
+  ],
+  "department_Name": "IT",
+  "age": 29
+},
+{
+  "_id": {
+    "$oid": "675c46dd700a9d83bfbc1f12"
+  },
+  "Id": 2,
+  "name": "Aarav Mehta",
+  "salary": 62000,
+  "skills": [
+    "Python",
+    "Data Analysis"
+  ],
+  "department_Name": "IT",
+  "age": 31
+},
+{
+  "_id": {
+    "$oid": "675c46dd700a9d83bfbc1f13"
+  },
+  "Id": 3,
+  "name": "Riya Patel",
+  "salary": 48000,
+  "skills": [
+    "Excel",
+    "HR Management"
+  ],
+  "department_Name": "HR",
+  "age": 27
+},
+{
+  "_id": {
+    "$oid": "675c46dd700a9d83bfbc1f14"
+  },
+  "Id": 4,
+  "name": "Kabir Nair",
+  "salary": 75000,
+  "skills": [
+    "JavaScript",
+    "React"
+  ],
+  "department_Name": "IT",
+  "age": 35
+},
+{
+  "_id": {
+    "$oid": "675c46dd700a9d83bfbc1f15"
+  },
+  "Id": 5,
+  "name": "Saanvi Joshi",
+  "salary": 53000,
+  "skills": [
+    "Accounting",
+    "Finance"
+  ],
+  "department_Name": "Finance",
+  "age": 26
+},
+{
+  "_id": {
+    "$oid": "675c46dd700a9d83bfbc1f16"
+  },
+  "Id": 6,
+  "name": "Ishaan Gupta",
+  "salary": 67000,
+  "skills": [
+    "Node.js",
+    "Leadership"
+  ],
+  "department_Name": "IT",
+  "age": 30
+},
+{
+  "_id": {
+    "$oid": "675c46dd700a9d83bfbc1f17"
+  },
+  "Id": 7,
+  "name": "Diya Reddy",
+  "salary": 59000,
+  "skills": [
+    "Public Relations",
+    "HR Management"
+  ],
+  "department_Name": "HR",
+  "age": 32
+},
+{
+  "_id": {
+    "$oid": "675c46dd700a9d83bfbc1f18"
+  },
+  "Id": 8,
+  "name": "Aditya Singh",
+  "salary": 80000,
+  "skills": [
+    "Machine Learning",
+    "Python"
+  ],
+  "department_Name": "R&D",
+  "age": 33
+},
+{
+  "_id": {
+    "$oid": "675c46dd700a9d83bfbc1f19"
+  },
+  "Id": 9,
+  "name": "Anika Khanna",
+  "salary": 49000,
+  "skills": [
+    "Customer Service"
+  ],
+  "department_Name": "Support",
+  "age": 25
+},
+{
+  "_id": {
+    "$oid": "675c46dd700a9d83bfbc1f1a"
+  },
+  "Id": 10,
+  "name": "Vihan Iyer",
+  "salary": 61000,
+  "skills": [
+    "Salesforce",
+    "Marketing"
+  ],
+  "department_Name": "Sales",
+  "age": 28
+},
+{
+  "_id": {
+    "$oid": "675c46dd700a9d83bfbc1f1b"
+  },
+  "Id": 11,
+  "name": "Meera Kulkarni",
+  "salary": 52000,
+  "skills": [
+    "Accounting",
+    "Auditing"
+  ],
+  "department_Name": "Finance",
+  "age": 34
+},
+{
+  "_id": {
+    "$oid": "675c46dd700a9d83bfbc1f1c"
+  },
+  "Id": 12,
+  "name": "Rohan Verma",
+  "salary": 68000,
+  "skills": [
+    "Cloud Computing",
+    "DevOps"
+  ],
+  "department_Name": "IT",
+  "age": 29
+},
+{
+  "_id": {
+    "$oid": "675c46dd700a9d83bfbc1f1d"
+  },
+  "Id": 13,
+  "name": "Tara Mishra",
+  "salary": 58000,
+  "skills": [
+    "Digital Marketing",
+    "SEO"
+  ],
+  "department_Name": "Marketing",
+  "age": 30
+},
+{
+  "_id": {
+    "$oid": "675c46dd700a9d83bfbc1f1e"
+  },
+  "Id": 14,
+  "name": "Arnav Das",
+  "salary": 70000,
+  "skills": [
+    "Cybersecurity",
+    "Python"
+  ],
+  "department_Name": "IT",
+  "age": 36
+},
+{
+  "_id": {
+    "$oid": "675c46dd700a9d83bfbc1f1f"
+  },
+  "Id": 15,
+  "name": "Neha Choudhary",
+  "salary": 60000,
+  "skills": [
+    "Data Entry",
+    "Administration"
+  ],
+  "department_Name": "Admin",
+  "age": 31
+},
+{
+  "_id": {
+    "$oid": "675c46dd700a9d83bfbc1f20"
+  },
+  "Id": 16,
+  "name": "Devansh Bhatt",
+  "salary": 65000,
+  "skills": [
+    "AI",
+    "Machine Learning"
+  ],
+  "department_Name": "R&D",
+  "age": 28
+},
+{
+  "_id": {
+    "$oid": "675c46dd700a9d83bfbc1f21"
+  },
+  "Id": 17,
+  "name": "Maya Jain",
+  "salary": 54000,
+  "skills": [
+    "Customer Engagement"
+  ],
+  "department_Name": "Support",
+  "age": 26
+},
+{
+  "_id": {
+    "$oid": "675c46dd700a9d83bfbc1f22"
+  },
+  "Id": 18,
+  "name": "Karan Thakur",
+  "salary": 72000,
+  "skills": [
+    "Project Management"
+  ],
+  "department_Name": "Operations",
+  "age": 35
+},
+{
+  "_id": {
+    "$oid": "675c46dd700a9d83bfbc1f23"
+  },
+  "Id": 19,
+  "name": "Aditi Kapoor",
+  "salary": 47000,
+  "skills": [
+    "Content Writing"
+  ],
+  "department_Name": "Marketing",
+  "age": 27
+},
+{
+  "_id": {
+    "$oid": "675c46dd700a9d83bfbc1f24"
+  },
+  "Id": 20,
+  "name": "Vikram Chauhan",
+  "salary": 58000,
+  "skills": [
+    "Excel",
+    "HR Policy"
+  ],
+  "department_Name": "HR",
+  "age": 33
+},
+{
+  "_id": {
+    "$oid": "675c46dd700a9d83bfbc1f25"
+  },
+  "Id": 21,
+  "name": "Nisha Agarwal",
+  "salary": 63000,
+  "skills": [
+    "Business Analysis"
+  ],
+  "department_Name": "Finance",
+  "age": 29
+},
+{
+  "_id": {
+    "$oid": "675c46dd700a9d83bfbc1f26"
+  },
+  "Id": 22,
+  "name": "Raghav Malhotra",
+  "salary": 64000,
+  "skills": [
+    "Testing",
+    "Automation"
+  ],
+  "department_Name": "IT",
+  "age": 32
+},
+{
+  "_id": {
+    "$oid": "675c46dd700a9d83bfbc1f27"
+  },
+  "Id": 23,
+  "name": "Simran Kohli",
+  "salary": 51000,
+  "skills": [
+    "Graphic Design",
+    "Adobe Suite"
+  ],
+  "department_Name": "Design",
+  "age": 28
+},
+{
+  "_id": {
+    "$oid": "675c46dd700a9d83bfbc1f28"
+  },
+  "Id": 24,
+  "name": "Pranav Ahuja",
+  "salary": 76000,
+  "skills": [
+    "Backend Development"
+  ],
+  "department_Name": "IT",
+  "age": 34
+},
+{
+  "_id": {
+    "$oid": "675c46dd700a9d83bfbc1f29"
+  },
+  "Id": 25,
+  "name": "Pooja Saxena",
+  "salary": 59000,
+  "skills": [
+    "Social Media Management"
+  ],
+  "department_Name": "Marketing",
+  "age": 30
+}]

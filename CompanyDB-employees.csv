@@ -1,0 +1,26 @@
+_id,Id,name,salary,skills[0],skills[1],department_Name,age
+675c46dd700a9d83bfbc1f11,1,Arjun Sharma,55000,Java,SQL,IT,29
+675c46dd700a9d83bfbc1f12,2,Aarav Mehta,62000,Python,Data Analysis,IT,31
+675c46dd700a9d83bfbc1f13,3,Riya Patel,48000,Excel,HR Management,HR,27
+675c46dd700a9d83bfbc1f14,4,Kabir Nair,75000,JavaScript,React,IT,35
+675c46dd700a9d83bfbc1f15,5,Saanvi Joshi,53000,Accounting,Finance,Finance,26
+675c46dd700a9d83bfbc1f16,6,Ishaan Gupta,67000,Node.js,Leadership,IT,30
+675c46dd700a9d83bfbc1f17,7,Diya Reddy,59000,Public Relations,HR Management,HR,32
+675c46dd700a9d83bfbc1f18,8,Aditya Singh,80000,Machine Learning,Python,R&D,33
+675c46dd700a9d83bfbc1f19,9,Anika Khanna,49000,Customer Service,,Support,25
+675c46dd700a9d83bfbc1f1a,10,Vihan Iyer,61000,Salesforce,Marketing,Sales,28
+675c46dd700a9d83bfbc1f1b,11,Meera Kulkarni,52000,Accounting,Auditing,Finance,34
+675c46dd700a9d83bfbc1f1c,12,Rohan Verma,68000,Cloud Computing,DevOps,IT,29
+675c46dd700a9d83bfbc1f1d,13,Tara Mishra,58000,Digital Marketing,SEO,Marketing,30
+675c46dd700a9d83bfbc1f1e,14,Arnav Das,70000,Cybersecurity,Python,IT,36
+675c46dd700a9d83bfbc1f1f,15,Neha Choudhary,60000,Data Entry,Administration,Admin,31
+675c46dd700a9d83bfbc1f20,16,Devansh Bhatt,65000,AI,Machine Learning,R&D,28
+675c46dd700a9d83bfbc1f21,17,Maya Jain,54000,Customer Engagement,,Support,26
+675c46dd700a9d83bfbc1f22,18,Karan Thakur,72000,Project Management,,Operations,35
+675c46dd700a9d83bfbc1f23,19,Aditi Kapoor,47000,Content Writing,,Marketing,27
+675c46dd700a9d83bfbc1f24,20,Vikram Chauhan,58000,Excel,HR Policy,HR,33
+675c46dd700a9d83bfbc1f25,21,Nisha Agarwal,63000,Business Analysis,,Finance,29
+675c46dd700a9d83bfbc1f26,22,Raghav Malhotra,64000,Testing,Automation,IT,32
+675c46dd700a9d83bfbc1f27,23,Simran Kohli,51000,Graphic Design,Adobe Suite,Design,28
+675c46dd700a9d83bfbc1f28,24,Pranav Ahuja,76000,Backend Development,,IT,34
+675c46dd700a9d83bfbc1f29,25,Pooja Saxena,59000,Social Media Management,,Marketing,30
